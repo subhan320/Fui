@@ -1,0 +1,9 @@
+{
+	"ip":"GISschoolsmp.aternos.me",
+	"port": 42129,
+	"name": "Fui",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register Sonu@123# Sonu@123#",
+	"login-cmd":"/login Sonu@123#"
+}
